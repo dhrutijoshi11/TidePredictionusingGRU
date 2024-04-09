@@ -13,7 +13,5 @@ Model 3: GRU with Different Activation Function
 
 In the third model, the activation function used within the GRU units was modified to explore its effect on prediction accuracy. The activation function plays a crucial role in controlling the output of neural network nodes. By testing different activation functions such as tanh, sigmoid, or ReLU (Rectified Linear Unit), the model sought to identify the most suitable activation function for the tide prediction task.
 
-![image](https://github.com/dhrutijoshi11/TidePredictionusingGRU/assets/101862826/c97a9bc6-02f6-4825-8acd-bb1fe864643c)
 Dataset:
 The location is BHP.  The data for training is BHPtraining.csv, which holds 2017-2019 data and for testing BHPtest.csv which holds 2020 data.
-![image](https://github.com/dhrutijoshi11/TidePredictionusingGRU/assets/101862826/9021b6ed-5f46-4b13-9e47-e1e7a0c55ec6)
